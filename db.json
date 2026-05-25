@@ -1,0 +1,15 @@
+{
+    "users":[
+        {
+            "id":1,
+            "fullName" : "XhenisKrasniqi",
+            "email":"test@gmail.com",
+            "password":"123"     
+        }
+    ],
+    "properties":[
+        {
+            
+        }
+    ]
+}
