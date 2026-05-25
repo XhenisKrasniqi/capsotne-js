@@ -1,0 +1,25 @@
+{
+  "name": "capstone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+        "server":"json-server --watch db.json --port 3006"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XhenisKrasniqi/capsotne-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/XhenisKrasniqi/capsotne-js/issues"
+  },
+  "homepage": "https://github.com/XhenisKrasniqi/capsotne-js#readme",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.15"
+  }
+}
